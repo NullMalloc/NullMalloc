@@ -37,4 +37,4 @@ $ echo $NEXT
 first CTF write-up
 ```
 
-[libft](https://github.com/NullMalloc/libft) · [CCNA notes](https://github.com/NullMalloc/CCNA) · [Security+ (verify)](https://cp.certmetrics.com/comptia/en/public/verify/credential/b4fd7baed9d5474e8b6815ba6344bdc2) · [TryHackMe](https://tryhackme.com/p/TMp4x3iDFF)
+[libft](https://github.com/NullMalloc/libft) · [CCNA notes](https://github.com/NullMalloc/CCNA) · [Security+ (verify)](https://cp.certmetrics.com/comptia/en/public/verify/credential/b4fd7baed9d5474e8b6815ba6344bdc2) · [TryHackMe](https://tryhackme.com/p/NULLMALLOC)
