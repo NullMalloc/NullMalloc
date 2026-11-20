@@ -31,6 +31,6 @@ next: PJPT -> CPTS (Hack The Box) -> OSCP
 
 ### proof, not promises
 
-[Security+ (verify)](https://cp.certmetrics.com/comptia/en/public/verify/credential/b4fd7baed9d5474e8b6815ba6344bdc2) · [libft](https://github.com/NullMalloc/libft) · [CCNA notes](https://github.com/NullMalloc/CCNA) · [TryHackMe](https://tryhackme.com/p/NULLMALLOC)
+[Security+ (verify)](https://cp.certmetrics.com/comptia/en/public/verify/credential/b4fd7baed9d5474e8b6815ba6344bdc2) · [libft](https://github.com/NullMalloc/libft) · · [TryHackMe](https://tryhackme.com/p/NULLMALLOC)
 
 <sub>No memory was leaked in the making of this profile.</sub>
